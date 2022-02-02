@@ -1,0 +1,38 @@
+.topright {
+    position: absolute;
+    top: 45px;
+    right: 16px;
+    font-size: 18px;
+    
+}
+
+.countainer {
+    position: relative;
+}
+
+.center {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: left;
+    font-size: 18px;
+    padding: 20px;
+}
+
+    
+}
+
+p {
+    font-family: serif;
+}
+
+.submit {
+    position: absolute;
+    bottom: 9px;
+    right: 16px;
+    font-size: 18px;
+}
+
+.bottomleft {
+    padding: 15px;
+}
